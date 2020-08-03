@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix = "plots">
+        <file>stats.png</file>
+        <file>temperature.png</file>
+        <file>pressure.png</file>
+        <file>humidity.png</file>
+        <file>lux.png</file>
+    </qresource>
+</RCC>
